@@ -1,5 +1,7 @@
 # 🏋️‍♀️ HealthTrack Fitness App Development
 
+[![View Figma Prototype](https://img.shields.io/badge/View-Figma%20Prototype-blue?style=for-the-badge&logo=figma)](https://www.figma.com/proto/GzEpARDHZB7Lnhfj0atCSB/Fitness-App-(Community)?node-id=166-724&starting-point-node-id=166%3A724)
+
 ## 🌟 Overview
 HealthTrack is a **comprehensive fitness app** developed to offer personalized fitness journeys, enabling users to track calories, engage in community challenges, and access tailored workout routines. This repository houses essential documentation and development resources, including risk management, agile workflows, product backlog, use cases, market research, and the problem statement.
 
